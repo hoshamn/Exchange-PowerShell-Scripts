@@ -1,0 +1,1 @@
+Import-csv C:\scripts\Create_Rooms | foreach{ New-Mailbox -Name $_.roomname -Room -PrimarySmtpAddress $_.emailaddress -ResourceCapacity $_.capicity }

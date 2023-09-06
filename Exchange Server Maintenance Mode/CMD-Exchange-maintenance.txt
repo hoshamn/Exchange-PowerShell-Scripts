@@ -1,0 +1,5 @@
+Start 
+Start-ExchangeServerMaintenanceMode.ps1 -Server <ServerName> -TargetServer <TargetServerFQDN>
+---------------------------------------------------
+Stop
+Stop-ExchangeServerMaintenanceMode.ps1 -Server <ServerName>
