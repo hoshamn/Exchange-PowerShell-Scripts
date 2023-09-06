@@ -1,0 +1,94 @@
+﻿<html>
+                <style>
+                BODY{font-family: Arial; font-size: 8pt;}
+                H1{font-size: 16px;}
+                H2{font-size: 14px;}
+                H3{font-size: 12px;}
+                TABLE{border: 1px solid black; border-collapse: collapse; font-size: 8pt;}
+                TH{border: 1px solid black; background: #dddddd; padding: 5px; color: #000000;}
+                TD{border: 1px solid black; padding: 5px; }
+                td.pass{background: #7FFF00;}
+                td.warn{background: #FFE600;}
+                td.fail{background: #FF0000; color: #ffffff;}
+                td.info{background: #85D4FF;}
+                </style>
+                <body>
+                <h1 align="center">Exchange Server Health Check Report</h1>
+                <h3 align="center">Generated: 04/13/2022 11:17:02</h3><h3>Exchange Server Health Check Summary</h3>
+                        <p>The following server errors and warnings were detected.</p>
+                        <p>
+                        <ul><li>EX16-MBX01 - Uptime is less than 24 hours</li></ul></p><h3>Database Availability Group Health Check Summary</h3>
+                        <p>No Exchange DAG errors or warnings.</p><h3>Exchange Server Health</h3>
+                        <p>
+                        <table>
+                        <tr>
+                        <th>Server</th>
+                        <th>Site</th>
+                        <th>Roles</th>
+                        <th>Version</th>
+                        <th>DNS</th>
+                        <th>Ping</th>
+                        <th>Uptime (hrs)</th>
+                        <th>Client Access Server Role Services</th>
+                        <th>Hub Transport Server Role Services</th>
+                        <th>Mailbox Server Role Services</th>
+                        <th>Unified Messaging Server Role Services</th>
+                        <th>Transport Queue</th>
+                        <th>PF DBs Mounted</th>
+                        <th>MB DBs Mounted</th>
+                        <th>MAPI Test</th>
+                        <th>Mail Flow Test</th>
+                        </tr><tr><td>EX16-MBX01</td><td>Default-First-Site-Name</td><td>Mailbox</td><td>Exchange 2016</td><td class="pass">Pass</td><td class="pass">Pass</td><td class="warn">1</td><td class="pass">Pass</td><td class="pass">Pass</td><td class="pass">Pass</td><td class="pass">Pass</td><td class="pass">Pass (0)</td><td>n/a</td><td class="pass">Pass</td><td class="pass">Success</td><td class="pass">Pass</td></tr></table></p><p>Database Availability Group <strong>DAG01</strong> Health Summary:</p><p>
+                            <table>
+                            <tr>
+                            <th>Database</th>
+                            <th>Mounted on</th>
+                            <th>Preference</th>
+                            <th>Total Copies</th>
+                            <th>Healthy Copies</th>
+                            <th>Unhealthy Copies</th>
+                            <th>Healthy Queues</th>
+                            <th>Unhealthy Queues</th>
+                            <th>Lagged Queues</th>
+                            <th>Healthy Indexes</th>
+                            <th>Unhealthy Indexes</th>
+                            </tr><tr><td><strong>Archive-DB</strong></td><td>EX16-MBX01</td><td class="pass">1</td><td>1</td><td class="info">1</td><td class="pass">0</td><td class="pass">1</td><td class="pass">0</td><td>0</td><td class="pass">1</td><td class="pass">0</td></tr><tr><td><strong>HR-DB</strong></td><td>EX16-MBX01</td><td class="pass">1</td><td>1</td><td class="info">1</td><td class="pass">0</td><td class="pass">1</td><td class="pass">0</td><td>0</td><td class="pass">1</td><td class="pass">0</td></tr><tr><td><strong>IT-DB</strong></td><td>EX16-MBX01</td><td class="pass">1</td><td>1</td><td class="info">1</td><td class="pass">0</td><td class="pass">1</td><td class="pass">0</td><td>0</td><td class="pass">1</td><td class="pass">0</td></tr><tr><td><strong>Mailbox Database 2089367727</strong></td><td>EX16-MBX01</td><td class="pass">1</td><td>1</td><td class="info">1</td><td class="pass">0</td><td class="pass">1</td><td class="pass">0</td><td>0</td><td class="pass">1</td><td class="pass">0</td></tr><tr><td><strong>MGMT-DB</strong></td><td>EX16-MBX01</td><td class="pass">1</td><td>1</td><td class="info">1</td><td class="pass">0</td><td class="pass">1</td><td class="pass">0</td><td>0</td><td class="pass">1</td><td class="pass">0</td></tr></table>
+                                    </p><p>Database Availability Group <strong>DAG01</strong> Health Details:</p><p>
+                                <table>
+                                <tr>
+                                <th>Database Copy</th>
+                                <th>Database Name</th>
+                                <th>Mailbox Server</th>
+                                <th>Activation Preference</th>
+                                <th>Status</th>
+                                <th>Copy Queue</th>
+                                <th>Replay Queue</th>
+                                <th>Replay Lagged</th>
+                                <th>Truncation Lagged</th>
+                                <th>Content Index</th>
+                                </tr><tr><td><strong>Archive-DB\EX16-MBX01</strong></td><td>Archive-DB</td><td>EX16-MBX01</td><td>1</td><td class="pass">Mounted</td><td class="pass">0</td><td class="pass">0</td><td>False</td><td>False</td><td class="pass">Healthy</td></tr><tr><td><strong>HR-DB\EX16-MBX01</strong></td><td>HR-DB</td><td>EX16-MBX01</td><td>1</td><td class="pass">Mounted</td><td class="pass">0</td><td class="pass">0</td><td>False</td><td>False</td><td class="pass">Healthy</td></tr><tr><td><strong>IT-DB\EX16-MBX01</strong></td><td>IT-DB</td><td>EX16-MBX01</td><td>1</td><td class="pass">Mounted</td><td class="pass">0</td><td class="pass">0</td><td>False</td><td>False</td><td class="pass">Healthy</td></tr><tr><td><strong>Mailbox Database 2089367727\EX16-MBX01</strong></td><td>Mailbox Database 2089367727</td><td>EX16-MBX01</td><td>1</td><td class="pass">Mounted</td><td class="pass">0</td><td class="pass">0</td><td>False</td><td>False</td><td class="pass">Healthy</td></tr><tr><td><strong>MGMT-DB\EX16-MBX01</strong></td><td>MGMT-DB</td><td>EX16-MBX01</td><td>1</td><td class="pass">Mounted</td><td class="pass">0</td><td class="pass">0</td><td>False</td><td>False</td><td class="pass">Healthy</td></tr></table>
+                                    </p><p>Database Availability Group <strong>DAG01</strong> Member Health:</p><p>
+                                <table>
+                                <tr>
+                                <th>Server</th>
+                                <th>Cluster Service</th>
+                                <th>Replay Service</th>
+                                <th>Active Manager</th>
+                                <th>Tasks RPC Listener</th>
+                                <th>TCP Listener</th>
+                                <th>Server Locator Service</th>
+                                <th>DAG Members Up</th>
+                                <th>Cluster Network</th>
+                                <th>Quorum Group</th>
+                                <th>File Share Quorum</th>
+                                <th>Database Redundancy</th>
+                                <th>Database Availability</th>
+                                <th>DB Copy Suspended</th>
+                                <th>DB Copy Failed</th>
+                                <th>DB Initializing</th>
+                                <th>DB Disconnected</th>
+                                <th>DB Log Copy Keeping Up</th>
+                                <th>DB Log Replay Keeping Up</th>
+                                </tr><tr><td><strong>EX16-MBX01</strong></td><td class="pass">Passed</td><td class="pass">Passed</td><td class="pass">Passed</td><td class="pass">Passed</td><td class="pass">Passed</td><td class="pass">Passed</td><td class="pass">Passed</td><td class="pass">Passed</td><td class="pass">Passed</td><td>n/a</td><td class="warn">*FAILED*</td><td class="warn">*FAILED*</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td></tr></table>
+            </p></body>
+                </html>
