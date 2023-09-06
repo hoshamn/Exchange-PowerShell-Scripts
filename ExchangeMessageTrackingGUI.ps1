@@ -1,0 +1,1626 @@
+﻿#------------------------------------------------------------------------
+# Source File Information (DO NOT MODIFY)
+# Source ID: f777b453-5c78-40b1-98d0-ebd4360ddc0b
+# Source File: Exchange Message Tracking GUI.psf
+#------------------------------------------------------------------------
+#region File Recovery Data (DO NOT MODIFY)
+<#RecoveryData:
+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#>
+#endregion
+
+<#
+    .NOTES
+    --------------------------------------------------------------------------------
+     Code generated by:  SAPIEN Technologies, Inc., PowerShell Studio 2017 v5.4.138
+     Generated on:       17.01.2019 21:15
+     Generated by:       Frank
+     Organization:       FrankysWeb
+    --------------------------------------------------------------------------------
+    .DESCRIPTION
+        GUI script generated by PowerShell Studio 2017
+#>
+
+
+#----------------------------------------------
+#region Application Functions
+#----------------------------------------------
+
+#endregion Application Functions
+
+#----------------------------------------------
+# Generated Form Function
+#----------------------------------------------
+function Show-Exchange_Message_Tracking_GUI_psf {
+
+	#----------------------------------------------
+	#region Import the Assemblies
+	#----------------------------------------------
+	[void][reflection.assembly]::Load('System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089')
+	[void][reflection.assembly]::Load('System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089')
+	[void][reflection.assembly]::Load('System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a')
+	#endregion Import Assemblies
+
+	#----------------------------------------------
+	#region Define SAPIEN Types
+	#----------------------------------------------
+	try{
+		[FolderBrowserModernDialog] | Out-Null
+	}
+	catch
+	{
+		Add-Type -ReferencedAssemblies ('System.Windows.Forms') -TypeDefinition  @" 
+		using System;
+		using System.Windows.Forms;
+		using System.Reflection;
+
+        namespace SAPIENTypes
+        {
+		    public class FolderBrowserModernDialog : System.Windows.Forms.CommonDialog
+            {
+                private System.Windows.Forms.OpenFileDialog fileDialog;
+                public FolderBrowserModernDialog()
+                {
+                    fileDialog = new System.Windows.Forms.OpenFileDialog();
+                    fileDialog.Filter = "Folders|\n";
+                    fileDialog.AddExtension = false;
+                    fileDialog.CheckFileExists = false;
+                    fileDialog.DereferenceLinks = true;
+                    fileDialog.Multiselect = false;
+                    fileDialog.Title = "Select a folder";
+                }
+
+                public string Title
+                {
+                    get { return fileDialog.Title; }
+                    set { fileDialog.Title = value; }
+                }
+
+                public string InitialDirectory
+                {
+                    get { return fileDialog.InitialDirectory; }
+                    set { fileDialog.InitialDirectory = value; }
+                }
+                
+                public string SelectedPath
+                {
+                    get { return fileDialog.FileName; }
+                    set { fileDialog.FileName = value; }
+                }
+
+                object InvokeMethod(Type type, object obj, string method, object[] parameters)
+                {
+                    MethodInfo methInfo = type.GetMethod(method, BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic);
+                    return methInfo.Invoke(obj, parameters);
+                }
+
+                bool ShowOriginalBrowserDialog(IntPtr hwndOwner)
+                {
+                    FolderBrowserDialog folderBrowserDialog = new FolderBrowserDialog();
+                    folderBrowserDialog.Description = this.Title;
+                    folderBrowserDialog.SelectedPath = !string.IsNullOrEmpty(this.SelectedPath) ? this.SelectedPath : this.InitialDirectory;
+                    folderBrowserDialog.ShowNewFolderButton = false;
+                    if (folderBrowserDialog.ShowDialog() == DialogResult.OK)
+                    {
+                        fileDialog.FileName = folderBrowserDialog.SelectedPath;
+                        return true;
+                    }
+                    return false;
+                }
+
+                protected override bool RunDialog(IntPtr hwndOwner)
+                {
+                    if (Environment.OSVersion.Version.Major >= 6)
+                    {      
+                        try
+                        {
+                            bool flag = false;
+                            System.Reflection.Assembly assembly = Assembly.Load("System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089");
+                            Type typeIFileDialog = assembly.GetType("System.Windows.Forms.FileDialogNative").GetNestedType("IFileDialog", BindingFlags.NonPublic);
+                            uint num = 0;
+                            object dialog = InvokeMethod(fileDialog.GetType(), fileDialog, "CreateVistaDialog", null);
+                            InvokeMethod(fileDialog.GetType(), fileDialog, "OnBeforeVistaDialog", new object[] { dialog });
+                            uint options = (uint)InvokeMethod(typeof(System.Windows.Forms.FileDialog), fileDialog, "GetOptions", null) | (uint)0x20;
+                            InvokeMethod(typeIFileDialog, dialog, "SetOptions", new object[] { options });
+                            Type vistaDialogEventsType = assembly.GetType("System.Windows.Forms.FileDialog").GetNestedType("VistaDialogEvents", BindingFlags.NonPublic);
+                            object pfde = Activator.CreateInstance(vistaDialogEventsType, fileDialog);
+                            object[] parameters = new object[] { pfde, num };
+                            InvokeMethod(typeIFileDialog, dialog, "Advise", parameters);
+                            num = (uint)parameters[1];
+                            try
+                            {
+                                int num2 = (int)InvokeMethod(typeIFileDialog, dialog, "Show", new object[] { hwndOwner });
+                                flag = 0 == num2;
+                            }
+                            finally
+                            {
+                                InvokeMethod(typeIFileDialog, dialog, "Unadvise", new object[] { num });
+                                GC.KeepAlive(pfde);
+                            }
+                            return flag;
+                        }
+                        catch
+                        {
+                            return ShowOriginalBrowserDialog(hwndOwner);
+                        }
+                    }
+                    else
+                        return ShowOriginalBrowserDialog(hwndOwner);
+                }
+
+                public override void Reset()
+                {
+                    fileDialog.Reset();
+                }
+            }
+       }
+"@ -IgnoreWarnings | Out-Null
+	}
+	#endregion Define SAPIEN Types
+
+	#----------------------------------------------
+	#region Generated Form Objects
+	#----------------------------------------------
+	[System.Windows.Forms.Application]::EnableVisualStyles()
+	$formGUI = New-Object 'System.Windows.Forms.Form'
+	$cbHealth = New-Object 'System.Windows.Forms.CheckBox'
+	$rbfrench = New-Object 'System.Windows.Forms.RadioButton'
+	$rbenglish = New-Object 'System.Windows.Forms.RadioButton'
+	$rbgerman = New-Object 'System.Windows.Forms.RadioButton'
+	$labelerror = New-Object 'System.Windows.Forms.Label'
+	$cbuserview = New-Object 'System.Windows.Forms.CheckBox'
+	$cbreference = New-Object 'System.Windows.Forms.CheckBox'
+	$labelReference = New-Object 'System.Windows.Forms.Label'
+	$Reference = New-Object 'System.Windows.Forms.TextBox'
+	$cbresult = New-Object 'System.Windows.Forms.CheckBox'
+	$cbenddate = New-Object 'System.Windows.Forms.CheckBox'
+	$cbstartdate = New-Object 'System.Windows.Forms.CheckBox'
+	$cbsubject = New-Object 'System.Windows.Forms.CheckBox'
+	$cbintmessageid = New-Object 'System.Windows.Forms.CheckBox'
+	$cbmessageid = New-Object 'System.Windows.Forms.CheckBox'
+	$cbeventid = New-Object 'System.Windows.Forms.CheckBox'
+	$cbserver = New-Object 'System.Windows.Forms.CheckBox'
+	$cbsender = New-Object 'System.Windows.Forms.CheckBox'
+	$cbrecipient = New-Object 'System.Windows.Forms.CheckBox'
+	$labelWorking = New-Object 'System.Windows.Forms.Label'
+	$labelCommandOutput = New-Object 'System.Windows.Forms.Label'
+	$CommandBox = New-Object 'System.Windows.Forms.RichTextBox'
+	$Help = New-Object 'System.Windows.Forms.LinkLabel'
+	$link = New-Object 'System.Windows.Forms.LinkLabel'
+	$Headline = New-Object 'System.Windows.Forms.Label'
+	$cbSaveResults = New-Object 'System.Windows.Forms.CheckBox'
+	$SaveFolder = New-Object 'System.Windows.Forms.Button'
+	$labelResults = New-Object 'System.Windows.Forms.Label'
+	$Result = New-Object 'System.Windows.Forms.ComboBox'
+	$cbDetailedView = New-Object 'System.Windows.Forms.CheckBox'
+	$labelEnd = New-Object 'System.Windows.Forms.Label'
+	$labelStart = New-Object 'System.Windows.Forms.Label'
+	$EndDate = New-Object 'System.Windows.Forms.DateTimePicker'
+	$StartDate = New-Object 'System.Windows.Forms.DateTimePicker'
+	$labelSubject = New-Object 'System.Windows.Forms.Label'
+	$Subject = New-Object 'System.Windows.Forms.TextBox'
+	$labelInternalMessageID = New-Object 'System.Windows.Forms.Label'
+	$IntMessageID = New-Object 'System.Windows.Forms.TextBox'
+	$labelMessageID = New-Object 'System.Windows.Forms.Label'
+	$MessageID = New-Object 'System.Windows.Forms.TextBox'
+	$labelEventID = New-Object 'System.Windows.Forms.Label'
+	$EventID = New-Object 'System.Windows.Forms.ComboBox'
+	$labelServer = New-Object 'System.Windows.Forms.Label'
+	$Server = New-Object 'System.Windows.Forms.TextBox'
+	$labelSender = New-Object 'System.Windows.Forms.Label'
+	$Sender = New-Object 'System.Windows.Forms.TextBox'
+	$labelRecipient = New-Object 'System.Windows.Forms.Label'
+	$Searchbutton = New-Object 'System.Windows.Forms.Button'
+	$Recipient = New-Object 'System.Windows.Forms.TextBox'
+	$folderbrowserdialog = New-Object 'SAPIENTypes.FolderBrowserModernDialog'
+	$InitialFormWindowState = New-Object 'System.Windows.Forms.FormWindowState'
+	#endregion Generated Form Objects
+
+	#----------------------------------------------
+	# User Generated Script
+	#----------------------------------------------
+	#Load Exchange Management Shell
+	
+	$snapins = Get-PSSnapin -Registered | where { $_.Name -match "Exchange" }
+	if (!$snapins)
+	{
+		$NoExchangeSnapIn = $true
+	}
+	else
+	{
+		Add-PSSnapin *Exchange*
+	}
+	
+	$langkey = "DE"
+	
+	$formGUI_Load={
+		#TODO: Initialize Form Controls here
+	}
+	
+	$Searchbutton_Click= {
+		#TODO: Place custom script here
+		
+		if ($NoExchangeSnapIn -eq $true)
+		{
+			$labelerror.Visible = $true
+			$formGUI.Refresh()
+		}
+		
+		$labelWorking.Visible = $true
+		$formGUI.Refresh()
+		
+		$searchcommand = ""
+		
+		if ($cbserver.Checked -eq $true)
+		{ 
+			$Serverstring = $Server.Text
+			if ($Serverstring)
+			{
+				$searchcommand += "get-messagetrackinglog -Server `"$Serverstring`""
+			}
+			else
+			{
+				$searchcommand = "get-transportservice | get-messagetrackinglog -wa 0"
+			}
+		}
+		else
+		{
+			$searchcommand = "get-transportservice | get-messagetrackinglog -wa 0"
+		}
+		
+		if ($cbrecipient.Checked -eq $true)
+		{
+			$Recipientstring = $Recipient.Text
+			if ($Recipientstring)
+			{
+				$searchcommand += " -recipient `"$Recipientstring`""
+			}
+		}
+		
+		if ($cbsender.Checked -eq $true)
+		{
+			$Senderstring = $Sender.Text
+			if ($Senderstring)
+			{
+				$searchcommand += " -Sender `"$Senderstring`""
+			}
+		}
+		
+		if ($cbeventid.Checked -eq $true)
+		{
+			$EventIDstring = $EventID.Text
+			if ($EventIDstring)
+			{
+				$searchcommand += " -EventID `"$EventIDstring`""
+			}
+		}
+		
+		if ($cbmessageid.Checked -eq $true)
+		{
+			$MessageIDstring = $MessageID.Text
+			if ($MessageIDstring)
+			{
+				$searchcommand += " -MessageID `"$MessageIDstring`""
+			}
+		}
+		
+		if ($cbintmessageid.Checked -eq $true)
+		{
+			$IntMessageIDstring = $IntMessageID.Text
+			if ($IntMessageIDstring)
+			{
+				$searchcommand += " -InternalMessageID `"$IntMessageIDstring`""
+			}
+		}
+		
+		if ($cbsubject.Checked -eq $true)
+		{
+			$Subjectstring = $Subject.Text
+			if ($Subjectstring)
+			{
+				$searchcommand += " -MessageSubject `"$Subjectstring`""
+			}
+		}
+		
+		if ($cbstartdate.Checked -eq $true)
+		{
+			$StartDatestring = $StartDate.Value
+			if ($StartDatestring)
+			{
+				if ((get-culture).DateTimeFormat.ShortDatePattern -eq "dd.MM.yyyy")
+				{
+					[string]$StartDatesvalue = Get-Date $StartDatestring -Format "dd.MM.yyyy HH:mm"
+					$searchcommand += " -Start `(`"$StartDatesvalue`" | Get-Date`)"
+				}
+				elseif ((get-culture).DateTimeFormat.ShortDatePattern -eq "M/d/yyyy")
+				{
+					[string]$StartDatesvalue = Get-Date $StartDatestring -Format "M/d/yyyy HH:mm"
+					$searchcommand += " -Start `(`"$StartDatesvalue`" | Get-Date`)"
+				}
+				else
+				{
+					[string]$StartDatesvalue = Get-Date $StartDatestring
+					$searchcommand += " -Start `(`"$StartDatesvalue`" | Get-Date`)"
+				}
+			}
+		}
+		if ($cbenddate.Checked -eq $true)
+		{
+			$EndDatestring = $EndDate.Value
+			if ($EndDatestring)
+			{
+				if ((get-culture).DateTimeFormat.ShortDatePattern -eq "dd.MM.yyyy")
+				{
+					[string]$EndDatesvalue = Get-Date $EndDatestring -Format "dd.MM.yyyy HH:mm"
+					$searchcommand += " -End `(`"$EndDatesvalue`" | Get-Date`)"
+				}
+				elseif ((get-culture).DateTimeFormat.ShortDatePattern -eq "M/d/yyyy")
+				{
+					[string]$EndDatesvalue = Get-Date $EndDatestring -Format "M/d/yyyy HH:mm"
+					$searchcommand += " -End `(`"$EndDatesvalue`" | Get-Date`)"
+				}
+				else
+				{
+					[string]$EndDatesvalue = Get-Date $EndDatestring
+					$searchcommand += " -End `(`"$EndDatesvalue`" | Get-Date`)"
+				}
+			}
+		}
+		
+		if ($cbresult.Checked -eq $true)
+		{
+			$Resultstring = $Result.Text
+			if ($Resultstring)
+			{
+				$searchcommand += " -ResultSize $Resultstring"
+			}
+		}
+		
+		if ($cbreference.Checked -eq $true)
+		{
+			$Referencestring = $Reference.Text
+			if ($Referencestring)
+			{
+				$searchcommand += " -Reference `"$Referencestring`""
+			}
+		}
+		
+		if ($cbHealth.Checked -eq $true)
+		{
+		}
+		else
+		{
+			$searchcommand += " | where `{`$_.sender -notmatch `"HealthMailbox`" -and `$_.recipients -notmatch `"Health`"}"
+		}
+		
+		$DetailedViewstring = $cbDetailedView.Checked
+		if ($DetailedViewstring -eq "True")
+		{
+			$viewcommand += "`$trackinglogsearch | select * | out-gridview -Title `"Message Tracking GUI`""
+		}
+		else
+		{
+			$viewcommand += "`$trackinglogsearch | select Timestamp,EventID,Source,Sender,Recipients,MessageSubject | out-gridview -Title `"Message Tracking GUI`""
+		}
+		
+		$userviewstring = $cbuserview.Checked
+		if ($userviewstring -eq "True")
+		{
+			$userviewcommand += "`$trackinglogsearch | where `{`$_.eventid -match `"DELIVER`" -and `$_.source -match `"STOREDRIVER`"`} | select timestamp,eventid,sender,Recipients,messagesubject | out-gridview -Title `"Report for users`""
+		}
+		
+		Write-Host "$searchcommand"
+		
+		$CommandBox.Text = "$searchcommand"
+		
+		$trackinglogsearch = Invoke-Expression $searchcommand
+		Invoke-Expression $viewcommand
+		
+		if ($userviewstring -eq "True")
+		{
+			Invoke-Expression $userviewcommand
+		}
+		
+		$labelWorking.Visible = $false
+		$formGUI.Refresh()
+		
+		$SaveResultsstring = $cbSaveResults.Checked
+		if ($SaveResultsstring -eq "True")
+		{
+			$exportpath = $folderbrowserdialog.SelectedPath
+			if (!$exportpath) {$exportpath = "$env:USERPROFILE\Desktop"}
+			$filepath = "$exportpath" + "\TrackingLogSearch.csv"
+			$trackinglogsearch | select { $_.Recipients }, { $_.RecipientStatus }, { $_.EventData }, * -ExcludeProperty recipients, RecipientStatus,EventData | Export-Csv -NoTypeInformation -Path $filepath -Force
+			
+		}
+		
+	}
+	
+	
+	#region Control Helper Functions
+	function Load-ComboBox 
+	{
+	<#
+		.SYNOPSIS
+			This functions helps you load items into a ComboBox.
+	
+		.DESCRIPTION
+			Use this function to dynamically load items into the ComboBox control.
+	
+		.PARAMETER  ComboBox
+			The ComboBox control you want to add items to.
+	
+		.PARAMETER  Items
+			The object or objects you wish to load into the ComboBox's Items collection.
+	
+		.PARAMETER  DisplayMember
+			Indicates the property to display for the items in this control.
+		
+		.PARAMETER  Append
+			Adds the item(s) to the ComboBox without clearing the Items collection.
+		
+		.EXAMPLE
+			Load-ComboBox $combobox1 "Red", "White", "Blue"
+		
+		.EXAMPLE
+			Load-ComboBox $combobox1 "Red" -Append
+			Load-ComboBox $combobox1 "White" -Append
+			Load-ComboBox $combobox1 "Blue" -Append
+		
+		.EXAMPLE
+			Load-ComboBox $combobox1 (Get-Process) "ProcessName"
+	#>
+		Param (
+			[ValidateNotNull()]
+			[Parameter(Mandatory=$true)]
+			[System.Windows.Forms.ComboBox]$ComboBox,
+			[ValidateNotNull()]
+			[Parameter(Mandatory=$true)]
+			$Items,
+		    [Parameter(Mandatory=$false)]
+			[string]$DisplayMember,
+			[switch]$Append
+		)
+		
+		if(-not $Append)
+		{
+			$ComboBox.Items.Clear()	
+		}
+		
+		if($Items -is [Object[]])
+		{
+			$ComboBox.Items.AddRange($Items)
+		}
+		elseif ($Items -is [Array])
+		{
+			$ComboBox.BeginUpdate()
+			foreach($obj in $Items)
+			{
+				$ComboBox.Items.Add($obj)	
+			}
+			$ComboBox.EndUpdate()
+		}
+		else
+		{
+			$ComboBox.Items.Add($Items)	
+		}
+	
+		$ComboBox.DisplayMember = $DisplayMember	
+	}
+	
+	function Load-ListBox 
+	{
+	<#
+		.SYNOPSIS
+			This functions helps you load items into a ListBox or CheckedListBox.
+	
+		.DESCRIPTION
+			Use this function to dynamically load items into the ListBox control.
+	
+		.PARAMETER  ListBox
+			The ListBox control you want to add items to.
+	
+		.PARAMETER  Items
+			The object or objects you wish to load into the ListBox's Items collection.
+	
+		.PARAMETER  DisplayMember
+			Indicates the property to display for the items in this control.
+		
+		.PARAMETER  Append
+			Adds the item(s) to the ListBox without clearing the Items collection.
+		
+		.EXAMPLE
+			Load-ListBox $ListBox1 "Red", "White", "Blue"
+		
+		.EXAMPLE
+			Load-ListBox $listBox1 "Red" -Append
+			Load-ListBox $listBox1 "White" -Append
+			Load-ListBox $listBox1 "Blue" -Append
+		
+		.EXAMPLE
+			Load-ListBox $listBox1 (Get-Process) "ProcessName"
+	#>
+		Param (
+			[ValidateNotNull()]
+			[Parameter(Mandatory=$true)]
+			[System.Windows.Forms.ListBox]$ListBox,
+			[ValidateNotNull()]
+			[Parameter(Mandatory=$true)]
+			$Items,
+		    [Parameter(Mandatory=$false)]
+			[string]$DisplayMember,
+			[switch]$Append
+		)
+		
+		if(-not $Append)
+		{
+			$listBox.Items.Clear()	
+		}
+		
+		if($Items -is [System.Windows.Forms.ListBox+ObjectCollection])
+		{
+			$listBox.Items.AddRange($Items)
+		}
+		elseif ($Items -is [Array])
+		{
+			$listBox.BeginUpdate()
+			foreach($obj in $Items)
+			{
+				$listBox.Items.Add($obj)
+			}
+			$listBox.EndUpdate()
+		}
+		else
+		{
+			$listBox.Items.Add($Items)	
+		}
+	
+		$listBox.DisplayMember = $DisplayMember	
+	}
+	#endregion
+	
+	$labelRecipient_Click={
+		#TODO: Place custom script here
+		
+	}
+	
+	$StartDate_ValueChanged={
+		#TODO: Place custom script here
+		
+	}
+	
+	$SaveFolder_Click={
+		#TODO: Place custom script here
+		$folderbrowserdialog.ShowDialog()
+	}
+	
+	$cbSaveResults_CheckedChanged={
+		if ($SaveFolder.Enabled -eq $true)
+		{
+			$SaveFolder.Enabled = $false
+		}
+		else
+		{
+			$SaveFolder.Enabled = $true
+		}
+		
+	}
+	
+	$Headline_Click={
+		#TODO: Place custom script here
+		
+	}
+	
+	$link_LinkClicked=[System.Windows.Forms.LinkLabelLinkClickedEventHandler]{
+	#Event Argument: $_ = [System.Windows.Forms.LinkLabelLinkClickedEventArgs]
+		#TODO: Place custom script here
+		Start-Process "https://www.frankysweb.de"
+		
+	}
+	
+	$Help_LinkClicked=[System.Windows.Forms.LinkLabelLinkClickedEventHandler]{
+	#Event Argument: $_ = [System.Windows.Forms.LinkLabelLinkClickedEventArgs]
+		#TODO: Place custom script here
+		Start-Process "https://www.frankysweb.de/message-tracking-gui"
+	}
+	
+	$labelCommandOutput_Click={
+		#TODO: Place custom script here
+		
+	}
+	
+	$picturebox1_Click={
+		#TODO: Place custom script here
+		
+	}
+	
+	$workingbox_TextChanged={
+		#TODO: Place custom script here
+		
+	}
+	
+	$cbrecipient_CheckedChanged={
+		if ($Recipient.ReadOnly -eq $true)
+		{
+			$Recipient.ReadOnly = $false
+			$Recipient.BackColor = 'White'
+		}
+		else
+		{
+			$Recipient.ReadOnly = $true
+			$Recipient.BackColor = 'WhiteSmoke'
+		}
+	}
+	
+	$labelReference_Click={
+		#TODO: Place custom script here
+		
+	}
+	
+	$cbsender_CheckedChanged={
+		if ($Sender.ReadOnly -eq $true)
+		{
+			$Sender.ReadOnly = $false
+			$Sender.BackColor = 'White'
+		}
+		else
+		{
+			$Sender.ReadOnly = $true
+			$Sender.BackColor = 'WhiteSmoke'
+		}
+		
+	}
+	
+	$cbserver_CheckedChanged={
+		if ($Server.ReadOnly -eq $true)
+		{
+			$Server.ReadOnly = $false
+			$Server.BackColor = 'White'
+		}
+		else
+		{
+			$Server.ReadOnly = $true
+			$Server.BackColor = 'WhiteSmoke'
+		}
+		
+	}
+	
+	$cbmessageid_CheckedChanged={
+		if ($MessageID.ReadOnly -eq $true)
+		{
+			$MessageID.ReadOnly = $false
+			$MessageID.BackColor = 'White'
+		}
+		else
+		{
+			$MessageID.ReadOnly = $true
+			$MessageID.BackColor = 'WhiteSmoke'
+		}
+		
+	}
+	
+	$cbintmessageid_CheckedChanged={
+		if ($IntMessageID.ReadOnly -eq $true)
+		{
+			$IntMessageID.ReadOnly = $false
+			$IntMessageID.BackColor = 'White'
+		}
+		else
+		{
+			$IntMessageID.ReadOnly = $true
+			$IntMessageID.BackColor = 'WhiteSmoke'
+		}
+		
+	}
+	
+	$cbsubject_CheckedChanged={
+		if ($Subject.ReadOnly -eq $true)
+		{
+			$Subject.ReadOnly = $false
+			$Subject.BackColor = 'White'
+		}
+		else
+		{
+			$Subject.ReadOnly = $true
+			$Subject.BackColor = 'WhiteSmoke'
+		}
+		
+	}
+	
+	$cbreference_CheckedChanged={
+		if ($Reference.ReadOnly -eq $true)
+		{
+			$Reference.ReadOnly = $false
+			$Reference.BackColor = 'White'
+		}
+		else
+		{
+			$Reference.ReadOnly = $true
+			$Reference.BackColor = 'WhiteSmoke'
+		}
+		
+	}
+	
+	$cbstartdate_CheckedChanged={
+		if ($StartDate.Enabled -eq $true)
+		{
+			$StartDate.Enabled = $false
+		}
+		else
+		{
+			$StartDate.Enabled = $true
+		}
+		
+	}
+	
+	$cbenddate_CheckedChanged={
+		if ($EndDate.Enabled -eq $true)
+		{
+			$EndDate.Enabled = $false
+		}
+		else
+		{
+			$EndDate.Enabled = $true
+		}
+		
+	}
+	
+	$cbresult_CheckedChanged={
+		if ($Result.Enabled -eq $true)
+		{
+			$Result.Enabled = $false
+		}
+		else
+		{
+			$Result.Enabled = $true
+		}
+		
+	}
+	
+	$cbeventid_CheckedChanged={
+		if ($EventID.Enabled -eq $true)
+		{
+			$EventID.Enabled = $false
+		}
+		else
+		{
+			$EventID.Enabled = $true
+		}
+		
+	}
+	
+	$cbHealth_CheckedChanged={
+		#TODO: Place custom script here
+		
+	}
+	
+	$rbgerman_CheckedChanged={
+		#TODO: Place custom script here
+		$langkey = "DE"
+		$labelRecipient.Text = "Empfänger"
+		$labelSender.Text = "Absender"
+		$labelServer.Text = "Server"
+		$labelEventID.Text = "EventID"
+		$labelMessageID.Text = "MessageID"
+		$labelInternalMessageID.Text = "InternalMessageID"
+		$labelSubject.Text = "Betreff"
+		$labelStart.Text = "Start"
+		$labelEnd.Text = "Ende"
+		$labelResults.Text = "Ergebnisse"
+		$labelReference.Text = "Verweis"
+		$labelCommandOutput.Text = "Befehlsausgabe:"
+		$labelWorking.Text = "Suche..."
+		$labelerror.Text = "Fehler"
+		$cbDetailedView.Text = "Zeige detailierte Ergebnisse"
+		$cbuserview.Text = "Zeige Empfangsbericht für Benutzer"
+		$cbHealth.Text = "Zeige Health-Check Nachrichten"
+		$cbSaveResults.Text = "Ergebnisse in CSV-Datei speichern? (Desktop oder Ordner wählen)"
+		$SaveFolder.Text = "Ordner wählen"
+		$Searchbutton.Text = "Suchen"
+		$Help.Text = "Hilfe"
+		$formGUI.Refresh()
+	}
+	
+	$rbenglish_CheckedChanged={
+		#TODO: Place custom script here
+		$langkey = "EN"
+		$labelRecipient.Text = "Recipient"
+		$labelSender.Text = "Sender"
+		$labelServer.Text = "Server"
+		$labelEventID.Text = "EventID"
+		$labelMessageID.Text = "MessageID"
+		$labelInternalMessageID.Text = "InternalMessageID"
+		$labelSubject.Text = "Subject"
+		$labelStart.Text = "Start"
+		$labelEnd.Text = "End"
+		$labelResults.Text = "Results"
+		$labelReference.Text = "Reference"
+		$labelCommandOutput.Text = "Command Output:"
+		$labelWorking.Text = "Searching..."
+		$labelerror.Text = "Error"
+		$cbDetailedView.Text = "Show detailed results"
+		$cbuserview.Text = "Show results for users"
+		$cbHealth.Text = "Show Health-Check messages"
+		$cbSaveResults.Text = "Save results to CSV-File? (Desktop, or choose folder)"
+		$SaveFolder.Text = "Choose folder"
+		$Searchbutton.Text = "Search"
+		$Help.Text = "Help"
+		$formGUI.Refresh()
+	}
+	
+	$rbfrench_CheckedChanged={
+		#TODO: Place custom script here
+		$langkey = "FR"
+		$labelRecipient.Text = "Destinataire"
+		$labelSender.Text = "Expéditeur"
+		$labelServer.Text = "Serveur"
+		$labelEventID.Text = "EventID"
+		$labelMessageID.Text = "MessageID"
+		$labelInternalMessageID.Text = "MessageID interne"
+		$labelSubject.Text = "Objet"
+		$labelStart.Text = "Démarrage"
+		$labelEnd.Text = "Fin"
+		$labelResults.Text = "Résultats"
+		$labelReference.Text = "Référence"
+		$labelCommandOutput.Text = "Sortie de commande:"
+		$labelWorking.Text = "recherche..."
+		$labelerror.Text = "Erreur"
+		$cbDetailedView.Text = "Montrer des résultats détaillés"
+		$cbuserview.Text = "Afficher les résultats pour les utilisateurs"
+		$cbHealth.Text = "Afficher les messages de vérification de la santé"
+		$cbSaveResults.Text = "Enregistrer les résultats dans le fichier CSV? (Bureau, ou choisissez le dossier)"
+		$SaveFolder.Text = "Choisir dossier"
+		$Searchbutton.Text = "Recherche"
+		$Help.Text = "Aider"
+		$formGUI.Refresh()
+		
+	}
+	
+	$Recipient_TextChanged={
+		#TODO: Place custom script here
+		
+	}
+	
+	# --End User Generated Script--
+	#----------------------------------------------
+	#region Generated Events
+	#----------------------------------------------
+	
+	$Form_StateCorrection_Load=
+	{
+		#Correct the initial state of the form to prevent the .Net maximized form issue
+		$formGUI.WindowState = $InitialFormWindowState
+	}
+	
+	$Form_Cleanup_FormClosed=
+	{
+		#Remove all event handlers from the controls
+		try
+		{
+			$rbfrench.remove_CheckedChanged($rbfrench_CheckedChanged)
+			$rbenglish.remove_CheckedChanged($rbenglish_CheckedChanged)
+			$rbgerman.remove_CheckedChanged($rbgerman_CheckedChanged)
+			$cbreference.remove_CheckedChanged($cbreference_CheckedChanged)
+			$labelReference.remove_Click($labelReference_Click)
+			$cbresult.remove_CheckedChanged($cbresult_CheckedChanged)
+			$cbenddate.remove_CheckedChanged($cbenddate_CheckedChanged)
+			$cbstartdate.remove_CheckedChanged($cbstartdate_CheckedChanged)
+			$cbsubject.remove_CheckedChanged($cbsubject_CheckedChanged)
+			$cbintmessageid.remove_CheckedChanged($cbintmessageid_CheckedChanged)
+			$cbmessageid.remove_CheckedChanged($cbmessageid_CheckedChanged)
+			$cbeventid.remove_CheckedChanged($cbeventid_CheckedChanged)
+			$cbserver.remove_CheckedChanged($cbserver_CheckedChanged)
+			$cbsender.remove_CheckedChanged($cbsender_CheckedChanged)
+			$cbrecipient.remove_CheckedChanged($cbrecipient_CheckedChanged)
+			$labelCommandOutput.remove_Click($labelCommandOutput_Click)
+			$Help.remove_LinkClicked($Help_LinkClicked)
+			$link.remove_LinkClicked($link_LinkClicked)
+			$Headline.remove_Click($Headline_Click)
+			$cbSaveResults.remove_CheckedChanged($cbSaveResults_CheckedChanged)
+			$SaveFolder.remove_Click($SaveFolder_Click)
+			$StartDate.remove_ValueChanged($StartDate_ValueChanged)
+			$labelRecipient.remove_Click($labelRecipient_Click)
+			$Searchbutton.remove_Click($Searchbutton_Click)
+			$Recipient.remove_TextChanged($Recipient_TextChanged)
+			$formGUI.remove_Load($formGUI_Load)
+			$formGUI.remove_Load($Form_StateCorrection_Load)
+			$formGUI.remove_FormClosed($Form_Cleanup_FormClosed)
+		}
+		catch { Out-Null <# Prevent PSScriptAnalyzer warning #> }
+	}
+	#endregion Generated Events
+
+	#----------------------------------------------
+	#region Generated Form Code
+	#----------------------------------------------
+	$formGUI.SuspendLayout()
+	#
+	# formGUI
+	#
+	$formGUI.Controls.Add($cbHealth)
+	$formGUI.Controls.Add($rbfrench)
+	$formGUI.Controls.Add($rbenglish)
+	$formGUI.Controls.Add($rbgerman)
+	$formGUI.Controls.Add($labelerror)
+	$formGUI.Controls.Add($cbuserview)
+	$formGUI.Controls.Add($cbreference)
+	$formGUI.Controls.Add($labelReference)
+	$formGUI.Controls.Add($Reference)
+	$formGUI.Controls.Add($cbresult)
+	$formGUI.Controls.Add($cbenddate)
+	$formGUI.Controls.Add($cbstartdate)
+	$formGUI.Controls.Add($cbsubject)
+	$formGUI.Controls.Add($cbintmessageid)
+	$formGUI.Controls.Add($cbmessageid)
+	$formGUI.Controls.Add($cbeventid)
+	$formGUI.Controls.Add($cbserver)
+	$formGUI.Controls.Add($cbsender)
+	$formGUI.Controls.Add($cbrecipient)
+	$formGUI.Controls.Add($labelWorking)
+	$formGUI.Controls.Add($labelCommandOutput)
+	$formGUI.Controls.Add($CommandBox)
+	$formGUI.Controls.Add($Help)
+	$formGUI.Controls.Add($link)
+	$formGUI.Controls.Add($Headline)
+	$formGUI.Controls.Add($cbSaveResults)
+	$formGUI.Controls.Add($SaveFolder)
+	$formGUI.Controls.Add($labelResults)
+	$formGUI.Controls.Add($Result)
+	$formGUI.Controls.Add($cbDetailedView)
+	$formGUI.Controls.Add($labelEnd)
+	$formGUI.Controls.Add($labelStart)
+	$formGUI.Controls.Add($EndDate)
+	$formGUI.Controls.Add($StartDate)
+	$formGUI.Controls.Add($labelSubject)
+	$formGUI.Controls.Add($Subject)
+	$formGUI.Controls.Add($labelInternalMessageID)
+	$formGUI.Controls.Add($IntMessageID)
+	$formGUI.Controls.Add($labelMessageID)
+	$formGUI.Controls.Add($MessageID)
+	$formGUI.Controls.Add($labelEventID)
+	$formGUI.Controls.Add($EventID)
+	$formGUI.Controls.Add($labelServer)
+	$formGUI.Controls.Add($Server)
+	$formGUI.Controls.Add($labelSender)
+	$formGUI.Controls.Add($Sender)
+	$formGUI.Controls.Add($labelRecipient)
+	$formGUI.Controls.Add($Searchbutton)
+	$formGUI.Controls.Add($Recipient)
+	$formGUI.AutoScaleDimensions = '6, 13'
+	$formGUI.AutoScaleMode = 'Font'
+	$formGUI.AutoScroll = $True
+	$formGUI.BackColor = 'Window'
+	$formGUI.ClientSize = '783, 863'
+	#region Binary Data
+	$formGUI.Icon = [System.Convert]::FromBase64String('
+AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAAAAMQOAADEDgAAAAAA
+AAAAAABGLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/
+Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9G
+LwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0Yv
+Av9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C
+/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/
+Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv+pcwP/ksvr/0YwNf9G
+LwL/Ri8C/8CRNf/A5+v/RlOE/5JTA//W58r/YZHK/0YvAv9GLwL/Ri8C/0YvAv9GLwL/qXMD/5LL
+6/9GMDX/Ri8C/2EwA//Wy4T/wMvK/2GRyv+pcwP/wMvr/5LLyv9GMDX/Ri8C/0YvAv9GLwL/Ri8C
+/6lzA//W5+v/1ufr/3qv6/96MAP/wOeo/6mRhP96r+v/wJE1/5KRyv+p56j/RjBf/0YvAv9GLwL/
+Ri8C/0YvAv+pcwP/ksvr/0YwNf9GLwL/qXMD/5LL6/96MDX/qcuo/9bLqP9hc6j/1suE/0ZzqP9G
+LwL/Ri8C/0YvAv9GLwL/qXMD/5LL6/9GMDX/Ri8C/8CRNf96r+v/YTAD/9bLhP+p5+v/RjBf/8CR
+Nf9hkcr/Ri8C/0YvAv9GLwL/Ri8C/6lzA//W5+v/1ufr/6nL6//Wy6j/YZHK/0YvAv/Wr1//ksvr
+/0YwNf+pcwP/ksvr/0YwNf9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/
+Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9G
+LwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0Yv
+Av9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C
+/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/
+Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9GLwL/Ri8C/0YvAv9G
+LwL/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAA==')
+	#endregion
+	$formGUI.Name = 'formGUI'
+	$formGUI.Text = 'Exchange Message Tracking GUI - www.FrankysWeb.de'
+	$formGUI.add_Load($formGUI_Load)
+	#
+	# cbHealth
+	#
+	$cbHealth.Location = '217, 593'
+	$cbHealth.Name = 'cbHealth'
+	$cbHealth.Size = '450, 24'
+	$cbHealth.TabIndex = 24
+	$cbHealth.Text = 'Zeige Health-Check Nachrichten'
+	$cbHealth.UseVisualStyleBackColor = $True
+	#
+	# rbfrench
+	#
+	$rbfrench.Location = '710, 43'
+	$rbfrench.Name = 'rbfrench'
+	$rbfrench.Size = '68, 24'
+	$rbfrench.TabIndex = 104
+	$rbfrench.Text = 'Français'
+	$rbfrench.UseVisualStyleBackColor = $True
+	$rbfrench.add_CheckedChanged($rbfrench_CheckedChanged)
+	#
+	# rbenglish
+	#
+	$rbenglish.Location = '710, 24'
+	$rbenglish.Name = 'rbenglish'
+	$rbenglish.Size = '68, 24'
+	$rbenglish.TabIndex = 103
+	$rbenglish.Text = 'English'
+	$rbenglish.UseVisualStyleBackColor = $True
+	$rbenglish.add_CheckedChanged($rbenglish_CheckedChanged)
+	#
+	# rbgerman
+	#
+	$rbgerman.Checked = $True
+	$rbgerman.Location = '710, 4'
+	$rbgerman.Name = 'rbgerman'
+	$rbgerman.Size = '68, 24'
+	$rbgerman.TabIndex = 102
+	$rbgerman.TabStop = $True
+	$rbgerman.Text = 'Deutsch'
+	$rbgerman.UseVisualStyleBackColor = $True
+	$rbgerman.add_CheckedChanged($rbgerman_CheckedChanged)
+	#
+	# labelerror
+	#
+	$labelerror.BackColor = 'Red'
+	$labelerror.Font = 'Microsoft Sans Serif, 24pt, style=Bold'
+	$labelerror.Location = '263, 184'
+	$labelerror.Name = 'labelerror'
+	$labelerror.Size = '256, 106'
+	$labelerror.TabIndex = 44
+	$labelerror.Text = 'Fehler'
+	$labelerror.TextAlign = 'MiddleCenter'
+	$labelerror.Visible = $False
+	#
+	# cbuserview
+	#
+	$cbuserview.Location = '217, 568'
+	$cbuserview.Name = 'cbuserview'
+	$cbuserview.Size = '450, 24'
+	$cbuserview.TabIndex = 23
+	$cbuserview.Text = 'Zeige Empfangsbericht für Benutzer'
+	$cbuserview.UseVisualStyleBackColor = $True
+	#
+	# cbreference
+	#
+	$cbreference.Location = '190, 491'
+	$cbreference.Name = 'cbreference'
+	$cbreference.Size = '21, 24'
+	$cbreference.TabIndex = 20
+	$cbreference.Text = 'c'
+	$cbreference.UseVisualStyleBackColor = $True
+	$cbreference.add_CheckedChanged($cbreference_CheckedChanged)
+	#
+	# labelReference
+	#
+	$labelReference.Location = '84, 490'
+	$labelReference.Name = 'labelReference'
+	$labelReference.Size = '100, 23'
+	$labelReference.TabIndex = 41
+	$labelReference.Text = 'Verweis'
+	$labelReference.TextAlign = 'MiddleLeft'
+	$labelReference.add_Click($labelReference_Click)
+	#
+	# Reference
+	#
+	$Reference.BackColor = 'WhiteSmoke'
+	$Reference.Location = '217, 493'
+	$Reference.Name = 'Reference'
+	$Reference.ReadOnly = $True
+	$Reference.Size = '450, 20'
+	$Reference.TabIndex = 21
+	#
+	# cbresult
+	#
+	$cbresult.Location = '190, 454'
+	$cbresult.Name = 'cbresult'
+	$cbresult.Size = '21, 24'
+	$cbresult.TabIndex = 18
+	$cbresult.Text = 'c'
+	$cbresult.UseVisualStyleBackColor = $True
+	$cbresult.add_CheckedChanged($cbresult_CheckedChanged)
+	#
+	# cbenddate
+	#
+	$cbenddate.Location = '190, 410'
+	$cbenddate.Name = 'cbenddate'
+	$cbenddate.Size = '21, 24'
+	$cbenddate.TabIndex = 16
+	$cbenddate.Text = 'c'
+	$cbenddate.UseVisualStyleBackColor = $True
+	$cbenddate.add_CheckedChanged($cbenddate_CheckedChanged)
+	#
+	# cbstartdate
+	#
+	$cbstartdate.Location = '190, 368'
+	$cbstartdate.Name = 'cbstartdate'
+	$cbstartdate.Size = '21, 24'
+	$cbstartdate.TabIndex = 14
+	$cbstartdate.Text = 'c'
+	$cbstartdate.UseVisualStyleBackColor = $True
+	$cbstartdate.add_CheckedChanged($cbstartdate_CheckedChanged)
+	#
+	# cbsubject
+	#
+	$cbsubject.Location = '190, 330'
+	$cbsubject.Name = 'cbsubject'
+	$cbsubject.Size = '21, 24'
+	$cbsubject.TabIndex = 12
+	$cbsubject.Text = 'c'
+	$cbsubject.UseVisualStyleBackColor = $True
+	$cbsubject.add_CheckedChanged($cbsubject_CheckedChanged)
+	#
+	# cbintmessageid
+	#
+	$cbintmessageid.Location = '190, 288'
+	$cbintmessageid.Name = 'cbintmessageid'
+	$cbintmessageid.Size = '21, 24'
+	$cbintmessageid.TabIndex = 10
+	$cbintmessageid.Text = 'c'
+	$cbintmessageid.UseVisualStyleBackColor = $True
+	$cbintmessageid.add_CheckedChanged($cbintmessageid_CheckedChanged)
+	#
+	# cbmessageid
+	#
+	$cbmessageid.Location = '190, 249'
+	$cbmessageid.Name = 'cbmessageid'
+	$cbmessageid.Size = '21, 24'
+	$cbmessageid.TabIndex = 8
+	$cbmessageid.Text = 'c'
+	$cbmessageid.UseVisualStyleBackColor = $True
+	$cbmessageid.add_CheckedChanged($cbmessageid_CheckedChanged)
+	#
+	# cbeventid
+	#
+	$cbeventid.Location = '190, 204'
+	$cbeventid.Name = 'cbeventid'
+	$cbeventid.Size = '21, 24'
+	$cbeventid.TabIndex = 6
+	$cbeventid.Text = 'c'
+	$cbeventid.UseVisualStyleBackColor = $True
+	$cbeventid.add_CheckedChanged($cbeventid_CheckedChanged)
+	#
+	# cbserver
+	#
+	$cbserver.Location = '190, 159'
+	$cbserver.Name = 'cbserver'
+	$cbserver.Size = '21, 24'
+	$cbserver.TabIndex = 4
+	$cbserver.Text = 'c'
+	$cbserver.UseVisualStyleBackColor = $True
+	$cbserver.add_CheckedChanged($cbserver_CheckedChanged)
+	#
+	# cbsender
+	#
+	$cbsender.Location = '190, 115'
+	$cbsender.Name = 'cbsender'
+	$cbsender.Size = '21, 24'
+	$cbsender.TabIndex = 2
+	$cbsender.Text = 'c'
+	$cbsender.UseVisualStyleBackColor = $True
+	$cbsender.add_CheckedChanged($cbsender_CheckedChanged)
+	#
+	# cbrecipient
+	#
+	$cbrecipient.Location = '190, 73'
+	$cbrecipient.Name = 'cbrecipient'
+	$cbrecipient.Size = '21, 24'
+	$cbrecipient.TabIndex = 0
+	$cbrecipient.UseVisualStyleBackColor = $True
+	$cbrecipient.add_CheckedChanged($cbrecipient_CheckedChanged)
+	#
+	# labelWorking
+	#
+	$labelWorking.BackColor = 'Info'
+	$labelWorking.Font = 'Microsoft Sans Serif, 24pt, style=Bold'
+	$labelWorking.Location = '263, 360'
+	$labelWorking.Name = 'labelWorking'
+	$labelWorking.Size = '256, 106'
+	$labelWorking.TabIndex = 29
+	$labelWorking.Text = 'Suche...'
+	$labelWorking.TextAlign = 'MiddleCenter'
+	$labelWorking.Visible = $False
+	#
+	# labelCommandOutput
+	#
+	$labelCommandOutput.Location = '111, 688'
+	$labelCommandOutput.Name = 'labelCommandOutput'
+	$labelCommandOutput.Size = '199, 23'
+	$labelCommandOutput.TabIndex = 28
+	$labelCommandOutput.Text = 'Befehlsausgabe:'
+	$labelCommandOutput.TextAlign = 'MiddleLeft'
+	$labelCommandOutput.add_Click($labelCommandOutput_Click)
+	#
+	# CommandBox
+	#
+	$CommandBox.Location = '111, 716'
+	$CommandBox.Name = 'CommandBox'
+	$CommandBox.ReadOnly = $True
+	$CommandBox.Size = '556, 39'
+	$CommandBox.TabIndex = 27
+	$CommandBox.TabStop = $False
+	$CommandBox.Text = ''
+	#
+	# Help
+	#
+	$Help.Location = '13, 831'
+	$Help.Name = 'Help'
+	$Help.Size = '100, 23'
+	$Help.TabIndex = 100
+	$Help.TabStop = $True
+	$Help.Text = 'Hilfe'
+	$Help.TextAlign = 'MiddleLeft'
+	$Help.add_LinkClicked($Help_LinkClicked)
+	#
+	# link
+	#
+	$link.Location = '566, 831'
+	$link.Name = 'link'
+	$link.Size = '205, 23'
+	$link.TabIndex = 101
+	$link.TabStop = $True
+	$link.Text = 'www.FrankysWeb.de'
+	$link.TextAlign = 'MiddleRight'
+	$link.add_LinkClicked($link_LinkClicked)
+	#
+	# Headline
+	#
+	$Headline.Font = 'Microsoft Sans Serif, 14.25pt, style=Bold'
+	$Headline.Location = '13, 13'
+	$Headline.Name = 'Headline'
+	$Headline.Size = '420, 44'
+	$Headline.TabIndex = 24
+	$Headline.Text = 'Exchange Server Message Tracking GUI'
+	$Headline.TextAlign = 'MiddleLeft'
+	$Headline.add_Click($Headline_Click)
+	#
+	# cbSaveResults
+	#
+	$cbSaveResults.Location = '217, 606'
+	$cbSaveResults.Name = 'cbSaveResults'
+	$cbSaveResults.Size = '350, 52'
+	$cbSaveResults.TabIndex = 25
+	$cbSaveResults.Text = 'Ergebnisse in CSV-Datei speichern? (Desktop oder Ordner wählen)'
+	$cbSaveResults.UseVisualStyleBackColor = $True
+	$cbSaveResults.add_CheckedChanged($cbSaveResults_CheckedChanged)
+	#
+	# SaveFolder
+	#
+	$SaveFolder.Enabled = $False
+	$SaveFolder.Location = '573, 620'
+	$SaveFolder.Name = 'SaveFolder'
+	$SaveFolder.Size = '94, 23'
+	$SaveFolder.TabIndex = 26
+	$SaveFolder.Text = 'Ordner wählen'
+	$SaveFolder.UseVisualStyleBackColor = $True
+	$SaveFolder.add_Click($SaveFolder_Click)
+	#
+	# labelResults
+	#
+	$labelResults.Location = '84, 452'
+	$labelResults.Name = 'labelResults'
+	$labelResults.Size = '100, 23'
+	$labelResults.TabIndex = 21
+	$labelResults.Text = 'Ergebnisse'
+	$labelResults.TextAlign = 'MiddleLeft'
+	#
+	# Result
+	#
+	$Result.Enabled = $False
+	$Result.FormattingEnabled = $True
+	[void]$Result.Items.Add('100')
+	[void]$Result.Items.Add('200')
+	[void]$Result.Items.Add('500')
+	[void]$Result.Items.Add('1000')
+	[void]$Result.Items.Add('Unlimited')
+	$Result.Location = '217, 454'
+	$Result.Name = 'Result'
+	$Result.Size = '450, 21'
+	$Result.TabIndex = 19
+	#
+	# cbDetailedView
+	#
+	$cbDetailedView.Location = '217, 545'
+	$cbDetailedView.Name = 'cbDetailedView'
+	$cbDetailedView.Size = '450, 24'
+	$cbDetailedView.TabIndex = 22
+	$cbDetailedView.Text = 'Zeige detailierte Ergebnisse'
+	$cbDetailedView.UseVisualStyleBackColor = $True
+	#
+	# labelEnd
+	#
+	$labelEnd.Location = '84, 410'
+	$labelEnd.Name = 'labelEnd'
+	$labelEnd.Size = '100, 23'
+	$labelEnd.TabIndex = 18
+	$labelEnd.Text = 'Ende'
+	$labelEnd.TextAlign = 'MiddleLeft'
+	#
+	# labelStart
+	#
+	$labelStart.Location = '84, 372'
+	$labelStart.Name = 'labelStart'
+	$labelStart.Size = '100, 23'
+	$labelStart.TabIndex = 17
+	$labelStart.Text = 'Start'
+	$labelStart.TextAlign = 'MiddleLeft'
+	#
+	# EndDate
+	#
+	$EndDate.CustomFormat = 'dddd , dd. MMMM yyyy    HH:mm'
+	$EndDate.Enabled = $False
+	$EndDate.Format = 'Custom'
+	$EndDate.ImeMode = 'NoControl'
+	$EndDate.Location = '217, 413'
+	$EndDate.Name = 'EndDate'
+	$EndDate.Size = '450, 20'
+	$EndDate.TabIndex = 17
+	#
+	# StartDate
+	#
+	$StartDate.CustomFormat = 'dddd , dd. MMMM yyyy    HH:mm'
+	$StartDate.Enabled = $False
+	$StartDate.Format = 'Custom'
+	$StartDate.Location = '217, 372'
+	$StartDate.Name = 'StartDate'
+	$StartDate.Size = '450, 20'
+	$StartDate.TabIndex = 15
+	$StartDate.add_ValueChanged($StartDate_ValueChanged)
+	#
+	# labelSubject
+	#
+	$labelSubject.Location = '84, 331'
+	$labelSubject.Name = 'labelSubject'
+	$labelSubject.Size = '100, 23'
+	$labelSubject.TabIndex = 14
+	$labelSubject.Text = 'Betreff'
+	$labelSubject.TextAlign = 'MiddleLeft'
+	#
+	# Subject
+	#
+	$Subject.BackColor = 'WhiteSmoke'
+	$Subject.Location = '217, 334'
+	$Subject.Name = 'Subject'
+	$Subject.ReadOnly = $True
+	$Subject.Size = '450, 20'
+	$Subject.TabIndex = 13
+	#
+	# labelInternalMessageID
+	#
+	$labelInternalMessageID.Location = '84, 287'
+	$labelInternalMessageID.Name = 'labelInternalMessageID'
+	$labelInternalMessageID.Size = '100, 23'
+	$labelInternalMessageID.TabIndex = 12
+	$labelInternalMessageID.Text = 'InternalMessageID'
+	$labelInternalMessageID.TextAlign = 'MiddleLeft'
+	#
+	# IntMessageID
+	#
+	$IntMessageID.BackColor = 'WhiteSmoke'
+	$IntMessageID.Location = '217, 290'
+	$IntMessageID.Name = 'IntMessageID'
+	$IntMessageID.ReadOnly = $True
+	$IntMessageID.Size = '450, 20'
+	$IntMessageID.TabIndex = 11
+	#
+	# labelMessageID
+	#
+	$labelMessageID.Location = '84, 246'
+	$labelMessageID.Name = 'labelMessageID'
+	$labelMessageID.Size = '100, 23'
+	$labelMessageID.TabIndex = 10
+	$labelMessageID.Text = 'MessageID'
+	$labelMessageID.TextAlign = 'MiddleLeft'
+	#
+	# MessageID
+	#
+	$MessageID.BackColor = 'WhiteSmoke'
+	$MessageID.Location = '217, 249'
+	$MessageID.Name = 'MessageID'
+	$MessageID.ReadOnly = $True
+	$MessageID.Size = '450, 20'
+	$MessageID.TabIndex = 9
+	#
+	# labelEventID
+	#
+	$labelEventID.Location = '84, 202'
+	$labelEventID.Name = 'labelEventID'
+	$labelEventID.Size = '100, 23'
+	$labelEventID.TabIndex = 8
+	$labelEventID.Text = 'EventID'
+	$labelEventID.TextAlign = 'MiddleLeft'
+	#
+	# EventID
+	#
+	$EventID.Enabled = $False
+	$EventID.FormattingEnabled = $True
+	[void]$EventID.Items.Add('AGENTINFO')
+	[void]$EventID.Items.Add('BADMAIL')
+	[void]$EventID.Items.Add('CLIENTSUBMISSION')
+	[void]$EventID.Items.Add('DEFER')
+	[void]$EventID.Items.Add('DELIVER')
+	[void]$EventID.Items.Add('DELIVERFAIL')
+	[void]$EventID.Items.Add('DROP')
+	[void]$EventID.Items.Add('DSN')
+	[void]$EventID.Items.Add('DUPLICATEDELIVER')
+	[void]$EventID.Items.Add('DUPLICATEEXPAND')
+	[void]$EventID.Items.Add('DUPLICATEREDIRECT')
+	[void]$EventID.Items.Add('EXPAND')
+	[void]$EventID.Items.Add('FAIL')
+	[void]$EventID.Items.Add('HADISCARD')
+	[void]$EventID.Items.Add('HARECEIVE')
+	[void]$EventID.Items.Add('HAREDIRECT')
+	[void]$EventID.Items.Add('HAREDIRECTFAIL')
+	[void]$EventID.Items.Add('INITMESSAGECREATED')
+	[void]$EventID.Items.Add('LOAD')
+	[void]$EventID.Items.Add('MODERATIONEXPIRE')
+	[void]$EventID.Items.Add('MODERATORAPPROVE')
+	[void]$EventID.Items.Add('MODERATORREJECT')
+	[void]$EventID.Items.Add('MODERATORSALLNDR')
+	[void]$EventID.Items.Add('NOTIFYMAPI')
+	[void]$EventID.Items.Add('NOTIFYSHADOW')
+	[void]$EventID.Items.Add('POISONMESSAGE')
+	[void]$EventID.Items.Add('PROCESS')
+	[void]$EventID.Items.Add('PROCESSMEETINGMESSAGE')
+	[void]$EventID.Items.Add('RECEIVE')
+	[void]$EventID.Items.Add('REDIRECT')
+	[void]$EventID.Items.Add('RESOLVE')
+	[void]$EventID.Items.Add('RESUBMIT')
+	[void]$EventID.Items.Add('RESUBMITDEFER')
+	[void]$EventID.Items.Add('RESUBMITFAIL')
+	[void]$EventID.Items.Add('SEND')
+	[void]$EventID.Items.Add('SUBMIT')
+	[void]$EventID.Items.Add('SUBMITDEFER')
+	[void]$EventID.Items.Add('SUBMITFAIL')
+	[void]$EventID.Items.Add('SUPPRESSED')
+	[void]$EventID.Items.Add('THROTTLE')
+	[void]$EventID.Items.Add('TRANSFER ')
+	$EventID.Location = '217, 204'
+	$EventID.Name = 'EventID'
+	$EventID.Size = '450, 21'
+	$EventID.TabIndex = 7
+	#
+	# labelServer
+	#
+	$labelServer.Location = '84, 158'
+	$labelServer.Name = 'labelServer'
+	$labelServer.Size = '100, 23'
+	$labelServer.TabIndex = 6
+	$labelServer.Text = 'Server'
+	$labelServer.TextAlign = 'MiddleLeft'
+	#
+	# Server
+	#
+	$Server.BackColor = 'WhiteSmoke'
+	$Server.Location = '217, 161'
+	$Server.Name = 'Server'
+	$Server.ReadOnly = $True
+	$Server.Size = '450, 20'
+	$Server.TabIndex = 5
+	#
+	# labelSender
+	#
+	$labelSender.Location = '84, 112'
+	$labelSender.Name = 'labelSender'
+	$labelSender.Size = '100, 23'
+	$labelSender.TabIndex = 4
+	$labelSender.Text = 'Absender'
+	$labelSender.TextAlign = 'MiddleLeft'
+	#
+	# Sender
+	#
+	$Sender.BackColor = 'WhiteSmoke'
+	$Sender.Location = '217, 115'
+	$Sender.Name = 'Sender'
+	$Sender.ReadOnly = $True
+	$Sender.Size = '450, 20'
+	$Sender.TabIndex = 3
+	#
+	# labelRecipient
+	#
+	$labelRecipient.Location = '84, 70'
+	$labelRecipient.Name = 'labelRecipient'
+	$labelRecipient.Size = '100, 23'
+	$labelRecipient.TabIndex = 2
+	$labelRecipient.Text = 'Empfänger'
+	$labelRecipient.TextAlign = 'MiddleLeft'
+	$labelRecipient.add_Click($labelRecipient_Click)
+	#
+	# Searchbutton
+	#
+	$Searchbutton.Font = 'Microsoft Sans Serif, 8.25pt, style=Bold'
+	$Searchbutton.Location = '313, 772'
+	$Searchbutton.Name = 'Searchbutton'
+	$Searchbutton.Size = '156, 40'
+	$Searchbutton.TabIndex = 26
+	$Searchbutton.Text = 'Suchen'
+	$Searchbutton.UseVisualStyleBackColor = $True
+	$Searchbutton.add_Click($Searchbutton_Click)
+	#
+	# Recipient
+	#
+	$Recipient.BackColor = 'WhiteSmoke'
+	$Recipient.Location = '217, 73'
+	$Recipient.Name = 'Recipient'
+	$Recipient.ReadOnly = $True
+	$Recipient.Size = '450, 20'
+	$Recipient.TabIndex = 1
+	$Recipient.add_TextChanged($Recipient_TextChanged)
+	#
+	# folderbrowserdialog
+	#
+	$folderbrowserdialog.InitialDirectory = "$env:userprofile\Desktop"
+	$formGUI.ResumeLayout()
+	#endregion Generated Form Code
+
+	#----------------------------------------------
+
+	#Save the initial state of the form
+	$InitialFormWindowState = $formGUI.WindowState
+	#Init the OnLoad event to correct the initial state of the form
+	$formGUI.add_Load($Form_StateCorrection_Load)
+	#Clean up the control events
+	$formGUI.add_FormClosed($Form_Cleanup_FormClosed)
+	#Show the Form
+	return $formGUI.ShowDialog()
+
+} #End Function
+
+#Call the form
+Show-Exchange_Message_Tracking_GUI_psf | Out-Null
